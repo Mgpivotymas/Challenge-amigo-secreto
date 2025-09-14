@@ -15,6 +15,9 @@
   - En base a la lista creada, sortear los nombres ingresados para obtener el resultado "amigo secreto"
 
 * [Acceso al proyecto](https://mgpivotymas.github.io/Challenge-amigo-secreto/)
+  - puedes probar el proyecto clickeando en "Acceso al proyecto" ⬆️ esto te llevara a una pagina externa
+  - o puedes descargarlo desde la pagina de github, para ejecutarlo extrae el archivo zip, y haz click en "index.html" esto abrira una pestaña en tu navegador y podras probar el proyecto
+  - tambien puedes ver el codigo abriendolo con visual studio code 
 
 * Tecnologías utilizadas
   - Javascript
