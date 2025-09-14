@@ -4,6 +4,7 @@
 ## Índice
 
 * [Descripción del proyecto]()
+  - Este proyecto se realizo para presentar el Challenge Amigo Secreto de Alura Latam
   - En este proyecto, desarrolle una aplicación que permite a las personas agregar nombres en una lista para luego realizar un sorteo aleatorio y saber quién es el "amigo secreto".
   - El usuario tendra que agregar nombres mediante un campo de texto y un botón que dice "Adicionar". Los nombres que se ingresaron se mostrarán en una lista visible, luego al hacer click en el botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria,
     enseñando el resultado
