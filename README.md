@@ -7,7 +7,8 @@
   - En este proyecto, desarrolle una aplicación que permite a las personas agregar nombres en una lista para luego realizar un sorteo aleatorio y saber quién es el "amigo secreto".
   - El usuario tendra que agregar nombres mediante un campo de texto y un botón que dice "Adicionar". Los nombres que se ingresaron se mostrarán en una lista visible, luego al hacer click en el botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria,
     enseñando el resultado
-
+* [Insignias]()
+<img width="400" height="400" alt="ff043987-239b-4661-bdb1-7f4ca6092c48" src="https://github.com/user-attachments/assets/2c9eded7-27f5-40ac-9a68-635de61eb622" />
 
 * [Características de la aplicación](#Características-de-la-aplicación)
   - Capacidad de almacenar valores (en este caso nombres)
